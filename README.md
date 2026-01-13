@@ -12,7 +12,7 @@ The following machine learning models are trained and evaluated:
 
 - K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
-- Logistic Regression 
+- Decision Tree
 
 
 ---
