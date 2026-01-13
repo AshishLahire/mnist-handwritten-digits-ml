@@ -12,8 +12,8 @@ The following machine learning models are trained and evaluated:
 
 - K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
-- Logistic Regression (if applicable)
-- Any additional models used in the project
+- Logistic Regression 
+
 
 ---
 
@@ -57,5 +57,5 @@ Misclassified input images and their predicted outputs are saved and visualized 
 ## ▶️ How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/AshishLahire/mnist-handwritten-digits-ml
 
